@@ -1,0 +1,126 @@
+{
+  "faqTitle": "Perguntas Frequentes sobre Patrimônio - Bens Móveis",
+  "contactInfo": {
+    "name": "Sérgio Avilla",
+    "role": "Coordenador de Patrimônio Bens Móveis - Regional de Ponta Grossa",
+    "phone": "+5544998096424",
+    "whatsappLink": "https://api.whatsapp.com/send?phone=5544998096424",
+    "location": "Jd. Carvalho, Ponta Grossa-PR"
+  },
+  "usefulLinks": [
+    {
+      "name": "Seção 14 do Manual Administrativo - Patrimônio Bens Móveis",
+      "url": "https://pmpg-sergio.notion.site/Se-o-14-do-Manual-Administrativo-Patrim-nio-Bens-M-veis-261e1462d7b9806b96dec0e173445ca8"
+    },
+    {
+      "name": "Manual - Inventário de Bens Móveis",
+      "url": "https://pmpg-sergio.notion.site/Manual-de-Instru-es-para-o-Respons-vel-pela-Casa-de-Ora-o-Invent-rio-de-Bens-M-veis-256e1462d7b9804c9fe7f24f7cc54ee5"
+    },
+    {
+      "name": "Manual - Etiquetagem dos Bens",
+      "url": "https://pmpg-sergio.notion.site/Manual-de-Instru-es-para-o-Respons-vel-pela-Casa-de-Ora-o-Etiquetagem-dos-bens-261e1462d7b9806b96dec0e173445ca8"
+    },
+    {
+      "name": "FORMULÁRIO 14.1: DECLARAÇÃO DE DOAÇÃO DE BEM MÓVEL",
+      "url": "https://link-exemplo/form14.1"
+    },
+    {
+      "name": "FORMULÁRIO 14.3: DECLARAÇÃO DE SAÍDA DE BENS MÓVEIS",
+      "url": "https://link-exemplo/form14.3"
+    },
+    {
+      "name": "FORMULÁRIO 14.2: OCORRÊNCIA DE ENTRADA DE BENS MÓVEIS",
+      "url": "https://link-exemplo/form14.2"
+    },
+    {
+      "name": "FORMULÁRIO 14.6: ALTERAÇÃO DE CADASTRO DE BEM",
+      "url": "https://link-exemplo/form14.6"
+    },
+    {
+      "name": "FORMULÁRIO 14.5: ATA DE INVENTÁRIO DE BENS MÓVEIS",
+      "url": "https://link-exemplo/form14.5"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "O que devo fazer com o relatório impresso do patrimônio?",
+      "answer": "O relatório serve para conferência. Você deve verificar cada item na casa de oração e compará-lo com o que está no relatório. Anote qualquer divergência diretamente no documento."
+    },
+    {
+      "id": 2,
+      "question": "Um bem existe fisicamente, mas não está no relatório. Como devo proceder?",
+      "answer": "Se um bem não estiver no relatório, mas estiver fisicamente na casa de oração, anote a descrição completa, modelo, marca, número de série (se houver), e o valor de aquisição (se souber). Ele precisará ser cadastrado no sistema."
+    },
+    {
+      "id": 3,
+      "question": "Um bem está no relatório, mas não existe mais na casa de oração. O que fazer?",
+      "answer": "Se um bem que consta no relatório não estiver mais na casa de oração (por estar danificado, obsoleto, etc.), anote no relatório 'BAIXA' ao lado do item. É necessário dar baixa do bem no sistema."
+    },
+    {
+      "id": 4,
+      "question": "Como faço para atualizar as informações de um bem?",
+      "answer": "Se o bem estiver no relatório e fisicamente na casa de oração, verifique se as informações (descrição, estado de conservação, localização) estão corretas. Anote no relatório qualquer necessidade de atualização."
+    },
+    {
+      "id": 5,
+      "question": "Quando e onde devo entregar o relatório de volta?",
+      "answer": "Você deve devolver o relatório na data combinada, geralmente durante os fechamentos contábeis na Central de Ponta Grossa. A devolução deve ser feita para a equipe do patrimônio."
+    },
+    {
+      "id": 6,
+      "question": "Recebi as etiquetas. Onde e como devo colá-las?",
+      "answer": "As etiquetas devem ser coladas de acordo com o 'Manual de Instruções - Etiquetagem dos Bens'. Há posições específicas para cada tipo de bem, para que a etiqueta não se deteriore ou danifique o item. Consulte o manual para a localização exata."
+    },
+    {
+      "id": 7,
+      "question": "O que é o 'ativo imobilizado' e por que é importante?",
+      "answer": "O ativo imobilizado, antes chamado de 'patrimônio bens móveis', é o conjunto de bens duráveis que a Congregação possui (móveis, equipamentos, etc.). O controle adequado é vital para a transparência e a boa gestão dos bens da igreja."
+    },
+    {
+      "id": 8,
+      "question": "Posso colar a etiqueta em qualquer lugar do móvel?",
+      "answer": "Não. É fundamental seguir as instruções do manual de etiquetagem. Colocar a etiqueta no local correto evita que ela se solte e facilita a futura conferência dos bens."
+    },
+    {
+      "id": 9,
+      "question": "Onde consigo o Manual de Instruções?",
+      "answer": "Você pode acessar os manuais através dos links disponíveis nesta mesma página. Lá você encontrará todas as orientações sobre como realizar o inventário e a etiquetagem."
+    },
+    {
+      "id": 10,
+      "question": "Ainda tenho dúvidas. Como posso entrar em contato?",
+      "answer": "Para qualquer dúvida adicional, você pode entrar em contato diretamente com o responsável pelo patrimônio da nossa regional, o irmão Sérgio Avilla, pelo WhatsApp através do botão disponível nesta página."
+    },
+    {
+      "id": 11,
+      "question": "A nossa casa de oração recebeu um bem por doação de um irmão. O que devemos fazer?",
+      "answer": "Quando um bem é recebido por doação, é necessário usar o **FORMULÁRIO 14.1: DECLARAÇÃO DE DOAÇÃO DE BEM MÓVEL** para registrar a entrada. Este formulário deve ser preenchido no momento do recebimento do bem e enviado para o irmão Sérgio pelo WhatsApp."
+    },
+    {
+      "id": 12,
+      "question": "Um bem patrimonial foi roubado da nossa casa de oração. Como devo proceder?",
+      "answer": "Se um bem foi roubado, é necessário registrar a ocorrência no **FORMULÁRIO 14.3: DECLARAÇÃO DE SAÍDA DE BENS MÓVEIS**. Este documento é utilizado para a baixa do bem por motivo de 'Crime', e precisa ser aprovado em uma Reunião Ministerial e de Administradores. O formulário preenchido deve ser enviado para o irmão Sérgio pelo WhatsApp."
+    },
+    {
+      "id": 13,
+      "question": "O que devo fazer se um bem de terceiro, como um órgão emprestado, estiver na nossa casa de oração?",
+      "answer": "Bens de terceiros que estão na casa de oração não devem ser inventariados. É recomendável que você identifique o bem com um aviso, como um papel afixado na parte traseira do objeto, informando quem é o proprietário para evitar confusões."
+    },
+    {
+      "id": 14,
+      "question": "Um bem precisa ser transferido para outra casa de oração. Qual formulário devo usar?",
+      "answer": "Para transferir um bem para outra localidade, a casa de oração que está enviando deve usar o **FORMULÁRIO 14.3: DECLARAÇÃO DE SAÍDA DE BENS MÓVEIS**, e a que está recebendo deve usar o **FORMULÁRIO 14.2: OCORRÊNCIA DE ENTRADA DE BENS MÓVEIS**. Ambos os formulários devem ser enviados para o irmão Sérgio pelo WhatsApp."
+    },
+    {
+      "id": 15,
+      "question": "Precisamos alterar a descrição ou a localização de um bem que já está no sistema. Como fazemos?",
+      "answer": "Para alterar o cadastro de um bem, como a descrição ou a localização (dependência), deve-se preencher o **FORMULÁRIO 14.6: ALTERAÇÃO DE CADASTRO DE BEM**. Após o preenchimento, o formulário deve ser enviado para o irmão Sérgio pelo WhatsApp."
+    },
+    {
+      "id": 16,
+      "question": "O que é a Ata de Inventário e para que serve?",
+      "answer": "A **FORMULÁRIO 14.5: ATA DE INVENTÁRIO DE BENS MÓVEIS** é um documento que registra a realização da conferência física dos bens ou da aposição de etiquetas. Ela deve ser assinada pelos presentes, como o Ministério local, para atestar as ocorrências relevantes ou a ausência delas. O formulário assinado deve ser enviado para o irmão Sérgio pelo WhatsApp."
+    }
+  ]
+}
