@@ -10,35 +10,35 @@
   "usefulLinks": [
     {
       "name": "Seção 14 do Manual Administrativo - Patrimônio Bens Móveis",
-      "url": "https://pmpg-sergio.notion.site/Se-o-14-do-Manual-Administrativo-Patrim-nio-Bens-M-veis-261e1462d7b9806b96dec0e173445ca8"
+      "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/Secao14_Patrimonio-Bens-moveis.pdf"
     },
     {
       "name": "Manual - Inventário de Bens Móveis",
-      "url": "https://pmpg-sergio.notion.site/Manual-de-Instru-es-para-o-Respons-vel-pela-Casa-de-Ora-o-Invent-rio-de-Bens-M-veis-256e1462d7b9804c9fe7f24f7cc54ee5"
+      "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/Manual de Instruções para o Responsável pela Casa de Oração - Inventário de Bens Móveis.pdf"
     },
     {
       "name": "Manual - Etiquetagem dos Bens",
-      "url": "https://pmpg-sergio.notion.site/Manual-de-Instru-es-para-o-Respons-vel-pela-Casa-de-Ora-o-Etiquetagem-dos-bens-261e1462d7b9806b96dec0e173445ca8"
+      "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/Manual de Instruções para o Responsável pela Casa de Oração - Etiquetagem dos Bens Móveis.pdf"
     },
     {
       "name": "FORMULÁRIO 14.1: DECLARAÇÃO DE DOAÇÃO DE BEM MÓVEL",
-      "url": "https://link-exemplo/form14.1"
+      "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/14_1 DECLARAÇÃO DE DOAÇÃO DE BEM MÓVEL.pdf"
     },
     {
       "name": "FORMULÁRIO 14.3: DECLARAÇÃO DE SAÍDA DE BENS MÓVEIS",
-      "url": "https://link-exemplo/form14.3"
+      "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/14_3 DECLARAÇÃO DE SAÍDA DE BENS MÓVEIS.pdf"
     },
     {
       "name": "FORMULÁRIO 14.2: OCORRÊNCIA DE ENTRADA DE BENS MÓVEIS",
-      "url": "https://link-exemplo/form14.2"
+      "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/14_2 OCORRÊNCIA DE ENTRADA DE BENS MÓVEIS.pdf"
     },
     {
       "name": "FORMULÁRIO 14.6: ALTERAÇÃO DE CADASTRO DE BEM",
-      "url": "https://link-exemplo/form14.6"
+      "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/14_6 ALTERAÇÃO DE CADASTRO DE BEM.pdf"
     },
     {
       "name": "FORMULÁRIO 14.5: ATA DE INVENTÁRIO DE BENS MÓVEIS",
-      "url": "https://link-exemplo/form14.5"
+      "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/14_5 ATA DE INVENTÁRIO DE BENS MÓVEIS.pdf"
     }
   ],
   "questions": [
@@ -123,4 +123,5 @@
       "answer": "A **FORMULÁRIO 14.5: ATA DE INVENTÁRIO DE BENS MÓVEIS** é um documento que registra a realização da conferência física dos bens ou da aposição de etiquetas. Ela deve ser assinada pelos presentes, como o Ministério local, para atestar as ocorrências relevantes ou a ausência delas. O formulário assinado deve ser enviado para o irmão Sérgio pelo WhatsApp."
     }
   ]
+
 }
