@@ -13,6 +13,10 @@
       "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/Secao14_Patrimonio-Bens-moveis.pdf"
     },
     {
+      "name": "Manual - Onde eu colo a etiqueta do bem?",
+      "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/bem e local da etiqueta.pdf.pdf"
+    },
+    {
       "name": "Manual - Inventário de Bens Móveis",
       "url": "https://raw.githubusercontent.com/manbomb/ccb-patrimonio-bens-moveis-faq/ebed893b59872cd55e183b709ed641213c5f3cb8/Manual de Instruções para o Responsável pela Casa de Oração - Inventário de Bens Móveis.pdf"
     },
@@ -121,7 +125,13 @@
       "id": 16,
       "question": "O que é a Ata de Inventário e para que serve?",
       "answer": "A **FORMULÁRIO 14.5: ATA DE INVENTÁRIO DE BENS MÓVEIS** é um documento que registra a realização da conferência física dos bens ou da aposição de etiquetas. Ela deve ser assinada pelos presentes, como o Ministério local, para atestar as ocorrências relevantes ou a ausência delas. O formulário assinado deve ser enviado para o irmão Sérgio pelo WhatsApp."
+    },
+    {
+      "id": 17,
+      "question": "Onde eu colo a etiqueta no bem?",
+      "answer": "O **Manual - Onde eu colo a etiqueta do bem?** indica onde deve ser colado a etiqueta de cada bem, qualquer dúvida, consultar o **Seção 14 do Manual Administrativo - Patrimônio Bens Móveis**."
     }
   ]
 
 }
+
